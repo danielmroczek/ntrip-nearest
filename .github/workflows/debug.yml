@@ -1,4 +1,4 @@
-name: List Files
+name: Debug - create txt file and deploy to GitHub Pages
 
 on:
   # push:
